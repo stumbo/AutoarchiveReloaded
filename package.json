@@ -30,7 +30,7 @@
         "grunt-mocha-test": "^0.13.3",
         "grunt-webpack": "^4.0.2",
         "iltorb": "^2.4.5",
-        "minimist": ">=1.2.2",
+        "minimist": ">=1.2.8",
         "mocha": "^8.2.1",
         "node-gyp": "^12.2.0",
         "prettier": "^2.2.1",
